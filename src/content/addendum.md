@@ -4,4 +4,6 @@ avatarImage:
   alt: 'My avatar'
 ---
 
-Thanks for reading my blog post! Feel free to check out my other posts or contact me via the social links in the footer.
+应该没什么好看的了
+
+不过可以的话, [请我喝杯咖啡吧](https://afdian.com/a/lushangkan)
